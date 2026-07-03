@@ -10,8 +10,13 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.45.4",
+    "gsap": "^3.15.0",
+    "papaparse": "^5.5.3",
+    "pinia": "^2.3.1",
     "vue": "^3.4.31",
-    "vue-router": "^4.4.0"
+    "vue-router": "^4.4.0",
+    "vue-toastification": "^2.0.0-rc.5",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.5",
